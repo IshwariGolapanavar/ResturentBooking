@@ -1,8 +1,1 @@
-///////////////////Admin Login Credentials///////////////////////////
-
-URL: http://localhost/table-booking-system/admin/
-Username: admin
-Password: AdminTBS@123#$
-
-
-////////////////////////END/////////////////////////////////////////
+Resturent Booking
